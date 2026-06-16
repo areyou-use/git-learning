@@ -1,4 +1,5 @@
 First file
 1
+new feature
 Hello
 another feature
